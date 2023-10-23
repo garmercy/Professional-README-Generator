@@ -10,7 +10,7 @@ The goal of this project it's create  easily create a README file by using a com
 ![questions](https://github.com/garmercy/PasswordGenerator/assets/138730100/d08d4718-55fc-4774-b89b-ab58b89e70ee)
 ![questions-answers](https://github.com/garmercy/PasswordGenerator/assets/138730100/ff6229ef-62a0-428c-8132-9c51073832dd)
 
-## After the questionary the ReadMe file will be generated automatically 
+## After the questionnaire the ReadMe file will be generated automatically
 ![readme](https://github.com/garmercy/PasswordGenerator/assets/138730100/438967fb-8d80-4d4f-b97d-76d3b8780ade)
 
 # Acceptance Criteria
