@@ -1,12 +1,5 @@
 # Professional-README-Generator
 
-## Table of Contents
-* [Description](#Description)
-* [How-is-it-looks?](#How is it looks?)
-* [Acceptance.Criteria](#Acceptance Criteria)
-* [UserStory](#User Story)
-
-
 # Description
 The goal of this project it's create  easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
 
