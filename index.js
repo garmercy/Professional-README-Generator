@@ -38,8 +38,8 @@ ${answers.test}
 
 ## Questions
 Contact me!
-<br>[My Email Address:](${answers.emailAddress})
-<br>[My GitHub Profile:](${answers.githubRepository})
+<br>[My Email Address](${answers.emailAddress})
+<br>[My GitHub Profile](${answers.githubRepository})
   `;
 }
 
@@ -67,10 +67,10 @@ inquirer
       message: 'Please write the usage of your project, and the languages or technologies associated with it',
     },
     {
-      type: 'input',
+      type: 'list',
       name: 'license',
       message: 'Please choose a license choice',
-      choices: ['APACHE2.0','Boost1.0','BSD3','BSD3','MIT','MPL2.0','none'],
+      choices: ["APACHE2.0","Boost1.0","BSD3","BSD3","MIT","MPL2.0","none"],
     },
     {
       type: 'input',
@@ -97,9 +97,8 @@ inquirer
 //This then generates a readme file in another folder.This then connects the user answers and the readme model (inquierer).
   .then((answers) => {
     const readmeFile = generateMarkdown(answers);
-
-    fs.writeFile('./dist/generated-README.md', readmeFile, (err) =>
-      err ? console.log(err) : console.log('Successfully created index.html!')
+    fs.writeFile('./dist/generated-ReadMe.md', readmeFile, (err) =>
+      err ? console.log(err) : console.log('Successfully created ReadMe.md!')
     );
   });
 
