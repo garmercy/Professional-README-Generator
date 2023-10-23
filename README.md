@@ -4,7 +4,7 @@
 The goal of this project it's create  easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
 
 # How is it looks?
-https://drive.google.com/file/d/1zeyzuPBeBN_ExgyAVg6YI2YhfNKnqScu/view
+[Link to the video!](https://drive.google.com/file/d/1zeyzuPBeBN_ExgyAVg6YI2YhfNKnqScu/view)
 
 <iframe src="null" width="640" height="480"></iframe>
 ## Using prompt the user will answer all the questions that will be included inside the readme file. 
