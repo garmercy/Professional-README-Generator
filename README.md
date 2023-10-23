@@ -2,9 +2,9 @@
 
 ## Table of Contents
 * [Description](#Description)
-* [How is it looks?](# How is it looks?)
-* [Acceptance Criteria](# Acceptance Criteria)
-* [User Story](# User Story)
+* [How is it looks?](# How-is-it-looks?)
+* [Acceptance Criteria](# Acceptance.Criteria)
+* [User Story](# UserStory)
 
 
 ## Description
